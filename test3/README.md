@@ -144,20 +144,6 @@ class Book_图书信息类{
 #### 对象图如下：
 ![](2.png)
 
-#### 说明：
-``` 
-图书信息类：
-    属性：
-        ISBN：书号
-        BookNumber：图书编号
-        Inventory：库存
-    方法：
-        add()：添加图书
-        find()：查找图书
-        delete()：删除图书
-        update()：更新图书
-``` 
-
 ### 2.2 借阅者类的对象图
 #### 源码如下：
 ``` class
@@ -173,7 +159,7 @@ class Reader_借阅者{
 }
 ``` 
 #### 对象图如下：
-![class](class3.png)
+![](3.png)
 
 #### 说明：
 ``` 
@@ -209,7 +195,7 @@ class Borrow_借阅信息类{
 @enduml
 ``` 
 #### 对象图如下：
-![class](class4.png)
+![](4.png)
 
 #### 说明：
 ``` 
@@ -244,21 +230,8 @@ class admin_图书管理员{
 @enduml
 ``` 
 #### 对象图如下：
-![class](class5.png)
+![](5.png)
 
-#### 说明：
-``` 
-图书管理员类：
-    属性：
-        adminID：图书管理员编号
-        adminName：图书管理员姓名
-    方法：
-        add()：添加图书
-        find()：查找图书
-        delete()：删除图书
-        update()：更新图书
-        payFine()：罚金缴纳
-``` 
 
 ### 2.5 图书描述类的对象图
 #### 源码如下：
@@ -276,17 +249,5 @@ class BookDescribeInfo_图书描述{
 @enduml
 ``` 
 #### 对象图如下：
-![class](class6.png)
+![](6.png)
 
-#### 说明：
-``` 
-图书描述类：
-    属性：
-        ISBN：书号
-        bookName：图书名称
-        bookType：图书类型
-        bookVersion：图书版本
-        describe：图书描述
-        price：价格
-        author：作者
-``` 
