@@ -16,7 +16,7 @@
 ![flow1](系统总体结构图.png)
 [界面设计](https://zhangji123456.github.io/is_analysis/test6/ui/系统首页界面.html)
 
-## 3. 用例图设计 [源码](./src/usecase.puml)
+## 3. 用例图设计 [源码](./src/用例图设计.puml)
 ![](用例源代码.png)
 
 ## 4. 类图设计 [源码](./src/class.puml)
