@@ -1,4 +1,4 @@
-# 接口：getTset  [返回](../README.md)
+# 接口：getTest  [返回](../README.md)
 用例： [发布实验](../yongli/发布实验.md)
 
 - 功能：
