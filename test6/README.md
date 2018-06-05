@@ -28,7 +28,7 @@
 ## 6. 用例及界面详细设计
 
 - ### [“登录”用例](./yongli/登录.md),[界面](https://zhangji123456.github.io/is_analysis/test6/ui/登录界面.html)
-- ### [“退出”用例](./yongli/登出.md),[界面](https://zhangji123456.github.io/is_analysis/test6/ui/登出界面.html)
+- ### [“退出”用例](./yongli/退出.md),[界面](https://zhangji123456.github.io/is_analysis/test6/ui/登出界面.html)
 - ### [“查看信息”用例](./yongli/查看信息.md),[界面](https://zhangji123456.github.io/is_analysis/test6/ui/顶部菜单.html)
 - ### [“修改信息”用例](./yongli/修改信息.md),[界面](https://zhangji123456.github.io/is_analysis/test6/ui/顶部菜单.html)
 - ### [“修改密码”用例](./yongli/修改密码.md),[界面](https://zhangji123456.github.io/is_analysis/test6/ui/顶部菜单.html)
