@@ -34,7 +34,7 @@
 - ### [“发布课程”用例](./yongli/发布课程.md),[界面](https://huangzhaowei123.github.io/is_analysis/test6/ui/发布课程.html)
 - ### [“选课”用例](./yongli/选课.md),[界面](https://huangzhaowei123.github.io/is_analysis/test6/ui/选课.html)
 - ### [“发布实验”用例](./yongli/发布实验.md),[界面](https://huangzhaowei123.github.io/is_analysis/test6/ui/发布实验.html)
-- ### [“修改实验”用例](./yongli/修改实验.md),[界面](https://zhangji123456.github.io/is_analysis/test6/ui/修改实验.html)
+- ### [“修改实验”用例](./yongli/修改实验.md),[界面](https://huangzhaowei123.github.io/is_analysis/test6/ui/修改实验.html)
 - ### [“评分”用例](./yongli/评分.md),[界面](https://huangzhaowei123.github.io/is_analysis/test6/ui/评分.html)
 - ### [“查看成绩”用例](./yongli/查看成绩.md),[界面](https://huangzhaowei123.github.io/is_analysis/test6/ui/查看成绩.html)
 - ### [“学生列表”用例](./yongli/学生列表.md),[界面](https://huangzhaowei123.github.io/is_analysis/test6/ui/学生列表.html)
