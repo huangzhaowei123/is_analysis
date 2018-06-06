@@ -1,4 +1,4 @@
-# 接口：getCourse  [返回](../README.md)
+# 接口：setCourse  [返回](../README.md)
 用例： [发布课程](../yongli/发布课程.md)
 
 - 功能：
@@ -8,7 +8,7 @@
     老师：可以发布课程。
     
 - API请求地址： 
-    接口基本地址/v1/api/getCourse/<teacher_id>
+    接口基本地址/v1/api/setCourse/<teacher_id>
 
 - 请求方式 ：
     GET
