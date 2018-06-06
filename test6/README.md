@@ -26,18 +26,18 @@
 
 ## 6. 用例及界面详细设计
 
-- ### [“登录”用例](./yongli/登录.md),[界面](https://github.com/huangzhaowei123/is_analysis/blob/master/test6/ui/%E7%99%BB%E5%BD%95.html)
+- ### [“登录”用例](./yongli/登录.md),[界面](https://huangzhaowei123.github.io/is_analysis/test6/ui/登录.html)
 - ### [“退出”用例](./yongli/退出.md),[界面](https://huangzhaowei123.github.io/is_analysis/test6/ui/退出.html)
-- ### [“查看信息”用例](./yongli/查看信息.md),[界面](https://zhangji123456.github.io/is_analysis/test6/ui/顶部菜单.html)
-- ### [“修改信息”用例](./yongli/修改信息.md),[界面](https://zhangji123456.github.io/is_analysis/test6/ui/顶部菜单.html)
-- ### [“修改密码”用例](./yongli/修改密码.md),[界面](https://zhangji123456.github.io/is_analysis/test6/ui/顶部菜单.html)
-- ### [“发布课程”用例](./yongli/发布课程.md),[界面](https://zhangji123456.github.io/is_analysis/test6/ui/录入课程信息.html)
-- ### [“选课”用例](./yongli/选课.md),[界面](https://zhangji123456.github.io/is_analysis/test6/ui/查看选课学生.html)
-- ### [“发布实验”用例](./yongli/发布实验.md),[界面](https://zhangji123456.github.io/is_analysis/test6/ui/发布实验.html)
-- ### [“修改实验”用例](./yongli/修改实验.md),[界面](https://zhangji123456.github.io/is_analysis/test6/ui/发布实验.html)
-- ### [“评分”用例](./yongli/评分.md),[界面](https://zhangji123456.github.io/is_analysis/test6/ui/修改实验.html)
-- ### [“查看成绩”用例](./yongli/查看成绩.md),[界面](https://zhangji123456.github.io/is_analysis/test6/ui/查看成绩界面.html)
-- ### [“学生列表”用例](./yongli/学生列表.md),[界面](https://zhangji123456.github.io/is_analysis/test6/ui/课程选择.html)
+- ### [“查看信息”用例](./yongli/查看信息.md),[界面](https://huangzhaowei123.github.io/is_analysis/test6/ui/查看信息.html)
+- ### [“修改信息”用例](./yongli/修改信息.md),[界面](https://huangzhaowei123.github.io/is_analysis/test6/ui/修改信息.html)
+- ### [“修改密码”用例](./yongli/修改密码.md),[界面](https://huangzhaowei123.github.io/is_analysis/test6/ui/修改密码.html)
+- ### [“发布课程”用例](./yongli/发布课程.md),[界面](https://huangzhaowei123.github.io/is_analysis/test6/ui/发布课程.html)
+- ### [“选课”用例](./yongli/选课.md),[界面](https://huangzhaowei123.github.io/is_analysis/test6/ui/选课.html)
+- ### [“发布实验”用例](./yongli/发布实验.md),[界面](https://huangzhaowei123.github.io/is_analysis/test6/ui/发布实验.html)
+- ### [“修改实验”用例](./yongli/修改实验.md),[界面](https://zhangji123456.github.io/is_analysis/test6/ui/修改实验.html)
+- ### [“评分”用例](./yongli/评分.md),[界面](https://huangzhaowei123.github.io/is_analysis/test6/ui/评分.html)
+- ### [“查看成绩”用例](./yongli/查看成绩.md),[界面](https://huangzhaowei123.github.io/is_analysis/test6/ui/查看成绩.html)
+- ### [“学生列表”用例](./yongli/学生列表.md),[界面](https://huangzhaowei123.github.io/is_analysis/test6/ui/学生列表.html)
 
 
 
