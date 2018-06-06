@@ -8,7 +8,7 @@
     老师：可以发布新的实验。
     
 - API请求地址： 
-    接口基本地址/v1/api/geTest/<teacher_id>
+    接口基本地址/v1/api/getTest/<teacher_id>
 
 - 请求方式 ：
     GET
