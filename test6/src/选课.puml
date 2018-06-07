@@ -1,0 +1,14 @@
+@startuml
+
+title 基于GitHub的实验管理平台--选课用例的顺序图
+
+actor user
+
+user -> 实验管理平台:输入用户信息
+
+实验管理平台->user:正确：返回课程的基本信息
+实验管理平台->user:错误：请重新输入
+
+
+
+@enduml
