@@ -1,0 +1,13 @@
+@startuml
+
+title 基于GitHub的实验管理平台--发布课程用例的顺序图
+
+actor teacher
+
+teacher -> 实验管理平台:上传课程信息
+
+实验管理平台->user:返回结果
+
+
+
+@enduml
