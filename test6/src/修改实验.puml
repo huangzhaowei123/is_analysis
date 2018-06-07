@@ -1,0 +1,13 @@
+@startuml
+
+title 基于GitHub的实验管理平台--修改实验用例的顺序图
+
+actor teacher
+
+teacher -> 实验管理平台:验证修改实验请求发起权限
+
+实验管理平台->teacher:返回结果
+
+
+
+@enduml
